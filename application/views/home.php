@@ -1,4 +1,6 @@
 <!--Start Banner Principal-->
+
+<p>seja bem vindo</p>
 <div class="fullwidth-template">
     <div class="slide-home-01">
         <div class="container">
