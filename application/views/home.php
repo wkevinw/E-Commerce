@@ -1,9 +1,4 @@
 <!--Start Banner Principal-->
-<<<<<<< HEAD
-
-=======
-ola mundooo
->>>>>>> develop
 <div class="fullwidth-template">
     <div class="slide-home-01">
         <div class="container">
